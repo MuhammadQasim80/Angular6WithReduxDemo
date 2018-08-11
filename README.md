@@ -4,7 +4,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 # Purpose
 
-This project is purly for learning and quick start purpose. If you want to introduce Ng2-Redux in your angular projects. Using Ng2-Redux, application state is maintained locally (in-memory). There is no server involved in this demo code. You can just plug your server in to save state on server side as well.
+This project is purly for learning and quick start purpose, like, if you want to introduce Ng2-Redux in your angular projects. Using Ng2-Redux, application state is maintained locally (in-memory). There is no server involved in this demo code. You can just plug your server in to save state on server side as well.
 
 ## Development server
 
