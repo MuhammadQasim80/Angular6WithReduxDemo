@@ -1,0 +1,11 @@
+.customer-list{
+    margin: 10px;
+}
+
+.selected-row{
+    border-left: 5px skyblue solid;
+}
+
+app-customer-detail {
+    width: 100%;
+}
